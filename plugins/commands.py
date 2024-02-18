@@ -473,10 +473,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Aklinksz_support_bot'),
-                                InlineKeyboardButton('𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/Aklinksz')
+                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Tamizh_Official_bot'),
+                                InlineKeyboardButton('𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/Disney_Linkzzzz')
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url='https://t.me/aklinksz_admin')
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url='https://t.me/Tamizh_Official_bot')
                             ],
                             [
                                 InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
